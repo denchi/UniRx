@@ -27,3 +27,7 @@ License
 This library is under the [MIT License](https://github.com/neuecc/UniRx/blob/master/LICENSE).
 
 Some code is borrowed from [Rx.NET](https://rx.codeplex.com/) and [mono/mcs](https://github.com/mono/mono).
+
+===
+
+Packed into a unity package by Denis Chiriac (denchi)
